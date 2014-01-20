@@ -1,0 +1,1714 @@
+<result>
+	<Article>
+		<NA>1</NA>
+		<TI>Mobile robot trajectory tracking using noisy RSS measurements: An RFID approach.</TI>
+		<DP>2013</DP>
+		<PA/>
+		<AU>Miah M Suruz</AU>
+		<AU>Gueaieb Wail</AU>
+	</Article>
+	<Article>
+		<NA>2</NA>
+		<TI>Equipment location in hospitals using RFID-based positioning system.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Shirehjini Ali Asghar Nazari</AU>
+		<AU>Yassine Abdulsalam</AU>
+		<AU>Shirmohammadi Shervin</AU>
+	</Article>
+	<Article>
+		<NA>3</NA>
+		<TI>Impact of Radio-Frequency Identification (RFID) Technologies on the Hospital Supply Chain: A Literature Review.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Coustasse Alberto</AU>
+		<AU>Tomblin Shane</AU>
+		<AU>Slack Chelsea</AU>
+	</Article>
+	<Article>
+		<NA>4</NA>
+		<TI>RFID Authentication Protocol to Enhance Patient Medication Safety.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Kaul Sonam Devgan</AU>
+		<AU>Awasthi Amit K</AU>
+	</Article>
+	<Article>
+		<NA>5</NA>
+		<TI>An RFID tag system-on-chip with wireless ECG monitoring for intelligent healthcare systems.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Wang Cheng-Pin</AU>
+		<AU>Lee Shuenn-Yuh</AU>
+		<AU>Lai Wei-Chih</AU>
+	</Article>
+	<Article>
+		<NA>6</NA>
+		<TI>Estimate of the fetal temperature increase due to UHF RFID exposure.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Fiocchi S</AU>
+		<AU>Markakis I A</AU>
+		<AU>Liorni I</AU>
+		<AU>Parazzini M</AU>
+		<AU>Samaras T</AU>
+		<AU>Ravazzani P</AU>
+	</Article>
+	<Article>
+		<NA>7</NA>
+		<TI>Validation of cleaning evaluation of surgical instruments with RFID tags attached based on cleaning appraisal judgment guidelines.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Yamashita Kazuhiko</AU>
+		<AU>Kusuda Kaori</AU>
+		<AU>Tokuda Yoko</AU>
+		<AU>Onishi Akiko</AU>
+		<AU>Tanaka Kiyohito</AU>
+		<AU>Shimizu Masatake</AU>
+		<AU>Kanda Ryohei</AU>
+		<AU>Honda Hiroshi</AU>
+		<AU>Komino Masaru</AU>
+		<AU>Iwakami Yumi</AU>
+		<AU>Ohta Yuji</AU>
+		<AU>Okubo Takashi</AU>
+	</Article>
+	<Article>
+		<NA>8</NA>
+		<TI>Design and Evaluation of RFID Deployments in a Trauma Resuscitation Bay.</TI>
+		<DP>2013</DP>
+		<PA/>
+		<AU>Parlak Siddika</AU>
+		<AU>Ayyer Shriniwas</AU>
+		<AU>Liu Ying Yu</AU>
+		<AU>Marsic Ivan</AU>
+	</Article>
+	<Article>
+		<NA>9</NA>
+		<TI>A Secure RFID-based WBAN for Healthcare Applications.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Ullah Sana</AU>
+		<AU>Alamri Atif</AU>
+	</Article>
+	<Article>
+		<NA>10</NA>
+		<TI>Numerical analysis of specific absorption rate in the human head due to a 13.56 MHz RFID-based intra-ocular pressure measurement system.</TI>
+		<DP>2013</DP>
+		<PA>England</PA>
+		<AU>Hirtl Rene</AU>
+		<AU>Schmid Gernot</AU>
+	</Article>
+	<Article>
+		<NA>11</NA>
+		<TI>A Passive Radio-Frequency Identification (RFID) Gas Sensor With Self-Correction Against Fluctuations of Ambient Temperature.</TI>
+		<DP>2013</DP>
+		<PA/>
+		<AU>Potyrailo Radislav A</AU>
+		<AU>Surman Cheryl</AU>
+	</Article>
+	<Article>
+		<NA>12</NA>
+		<TI>Two RFID Standard-based Security Protocols for Healthcare Environments.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Picazo-Sanchez Pablo</AU>
+		<AU>Bagheri Nasour</AU>
+		<AU>Peris-Lopez Pedro</AU>
+		<AU>Tapiador Juan E</AU>
+	</Article>
+	<Article>
+		<NA>13</NA>
+		<TI>Adding Intelligence to Mobile Asset Management in Hospitals: The True Value of RFID.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Castro Linda</AU>
+		<AU>Lefebvre Elisabeth</AU>
+		<AU>Lefebvre Louis A</AU>
+	</Article>
+	<Article>
+		<NA>14</NA>
+		<TI>Process visibility analysis in ambulatory care: a simulation study with RFID data.</TI>
+		<DP>2013</DP>
+		<PA>Netherlands</PA>
+		<AU>Lin Yi-Chin</AU>
+		<AU>Padman Rema</AU>
+	</Article>
+	<Article>
+		<NA>15</NA>
+		<TI>Monitoring Activity of Taking Medicine by Incorporating RFID and Video Analysis.</TI>
+		<DP>2013</DP>
+		<PA/>
+		<AU>Hasanuzzaman Faiz M</AU>
+		<AU>Yang Xiaodong</AU>
+		<AU>Tian Yingli</AU>
+		<AU>Liu Qingshan</AU>
+		<AU>Capezuti Elizabeth</AU>
+	</Article>
+	<Article>
+		<NA>16</NA>
+		<TI>Innovation and translation efforts in wireless medical connectivity, telemedicine and eMedicine: a story from the RFID Center of Excellence at the University of Pittsburgh.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Sejdić Ervin</AU>
+		<AU>Rothfuss Michael A</AU>
+		<AU>Stachel Joshua R</AU>
+		<AU>Franconi Nicholas G</AU>
+		<AU>Bocan Kara</AU>
+		<AU>Lovell Michael R</AU>
+		<AU>Mickle Marlin H</AU>
+	</Article>
+	<Article>
+		<NA>17</NA>
+		<TI>3D-Web-GIS RFID location sensing system for construction objects.</TI>
+		<DP>2013</DP>
+		<PA>England</PA>
+		<AU>Ko Chien-Ho</AU>
+	</Article>
+	<Article>
+		<NA>18</NA>
+		<TI>Setups for in vitro assessment of RFID interference on pacemakers.</TI>
+		<DP>2013</DP>
+		<PA>England</PA>
+		<AU>Mattei E</AU>
+		<AU>Censi F</AU>
+		<AU>Delogu A</AU>
+		<AU>Ferrara A</AU>
+		<AU>Calcagnini G</AU>
+	</Article>
+	<Article>
+		<NA>19</NA>
+		<TI>A touch probe method of operating an implantable RFID tag for orthopedic implant identification.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Liu Xiaoyu</AU>
+		<AU>Berger J Lee</AU>
+		<AU>Ogirala Ajay</AU>
+		<AU>Mickle Marlin H</AU>
+	</Article>
+	<Article>
+		<NA>20</NA>
+		<TI>An RFID solution for enhancing inpatient medication safety with real-time verifiable grouping-proof.</TI>
+		<DP>2014</DP>
+		<PA>Ireland</PA>
+		<AU>Chen Yu-Yi</AU>
+		<AU>Tsai Meng-Lin</AU>
+	</Article>
+	<Article>
+		<NA>21</NA>
+		<TI>Radio Frequency Identification (RFID) in healthcare: a literature review.</TI>
+		<DP>2013</DP>
+		<PA>Netherlands</PA>
+		<AU>Kolokathi Aikaterini</AU>
+		<AU>Rallis Panagiotis</AU>
+	</Article>
+	<Article>
+		<NA>22</NA>
+		<TI>Performance evaluation of UHF RFID technologies for real-time bus recognition in the Taipei Bus Station.</TI>
+		<DP>2013</DP>
+		<PA>Switzerland</PA>
+		<AU>Own Chung-Ming</AU>
+		<AU>Lee Da-Sheng</AU>
+		<AU>Wang Ti-Ho</AU>
+		<AU>Wang De-Jun</AU>
+		<AU>Ting Yu-Lun</AU>
+	</Article>
+	<Article>
+		<NA>23</NA>
+		<TI>Effects of whole-body exposure to 915 MHz RFID on secretory functions of the thyroid system in rats.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Kim Hye Sun</AU>
+		<AU>Paik Man-Jeong</AU>
+		<AU>Kim Yeon Ju</AU>
+		<AU>Lee Gwang</AU>
+		<AU>Lee Yun-Sil</AU>
+		<AU>Choi Hyung-Do</AU>
+		<AU>Kim Byung Chan</AU>
+		<AU>Pack Jeong-Ki</AU>
+		<AU>Kim Nam</AU>
+		<AU>Ahn Young Hwan</AU>
+	</Article>
+	<Article>
+		<NA>24</NA>
+		<TI>Evaluation of MRI issues for an access port with a radiofrequency identification (RFID) tag.</TI>
+		<DP>2013</DP>
+		<PA>Netherlands</PA>
+		<AU>Titterington Blake</AU>
+		<AU>Shellock Frank G</AU>
+	</Article>
+	<Article>
+		<NA>25</NA>
+		<TI>A note on the security of IS-RFID, an inpatient medication safety.</TI>
+		<DP>2014</DP>
+		<PA>Ireland</PA>
+		<AU>Safkhani Masoumeh</AU>
+		<AU>Bagheri Nasour</AU>
+		<AU>Naderi Majid</AU>
+	</Article>
+	<Article>
+		<NA>26</NA>
+		<TI>A split-path schema-based RFID data storage model in supply chain management.</TI>
+		<DP>2013</DP>
+		<PA>Switzerland</PA>
+		<AU>Fan Hua</AU>
+		<AU>Wu Quanyuan</AU>
+		<AU>Lin Yisong</AU>
+		<AU>Zhang Jianfeng</AU>
+	</Article>
+	<Article>
+		<NA>27</NA>
+		<TI>SAR exposure from UHF RFID reader in adult, child, pregnant woman, and fetus anatomical models.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Fiocchi Serena</AU>
+		<AU>Markakis Ioannis A</AU>
+		<AU>Ravazzani Paolo</AU>
+		<AU>Samaras Theodoros</AU>
+	</Article>
+	<Article>
+		<NA>28</NA>
+		<TI>A Secure 2G-RFID-Sys Mechanism for Applying to the Medical Emergency System.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Chen Yu-Yi</AU>
+		<AU>Wang Yao-Jen</AU>
+		<AU>Jan Jinn-Ke</AU>
+	</Article>
+	<Article>
+		<NA>29</NA>
+		<TI>J3Gen: a PRNG for low-cost passive RFID.</TI>
+		<DP>2013</DP>
+		<PA>Switzerland</PA>
+		<AU>Melià-Seguí Joan</AU>
+		<AU>Garcia-Alfaro Joaquin</AU>
+		<AU>Herrera-Joancomartí Jordi</AU>
+	</Article>
+	<Article>
+		<NA>30</NA>
+		<TI>Mixed orthogonal frequency coded SAW RFID tags.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Gallagher Mark W</AU>
+		<AU>Malocha Donald C</AU>
+	</Article>
+	<Article>
+		<NA>31</NA>
+		<TI>With RFID, asset management has never been easier: tiny technology saves time and money.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Busch Jason</AU>
+	</Article>
+	<Article>
+		<NA>32</NA>
+		<TI>Modeling and performance analysis of movement-based group location management using RFID sensing in public transportation systems.</TI>
+		<DP>2012</DP>
+		<PA>Switzerland</PA>
+		<AU>Chung Yun Won</AU>
+	</Article>
+	<Article>
+		<NA>33</NA>
+		<TI>Protegemed2: an extended platform based on RFID to identify EME and improve the detection of microshocks.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Rebonatto Marcelo Trindade</AU>
+		<AU>Spalding Luiz Eduardo Schardong</AU>
+		<AU>Hessel Fabiano Passuelo</AU>
+		<AU>Amaral Leonardo Albernaz</AU>
+	</Article>
+	<Article>
+		<NA>34</NA>
+		<TI>Thoracoscopic surgery support system using passive RFID marker.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Takahata Hiromi</AU>
+		<AU>Kojima Fumitsugu</AU>
+		<AU>Okada Minoru</AU>
+		<AU>Sugiura Tadao</AU>
+		<AU>Sato Toshihiko</AU>
+		<AU>Oshiro Osamu</AU>
+	</Article>
+	<Article>
+		<NA>35</NA>
+		<TI>A Reliable RFID Mutual Authentication Scheme for Healthcare Environments.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Wu Zhen-Yu</AU>
+		<AU>Chen Lichin</AU>
+		<AU>Wu Ju-Chuan</AU>
+	</Article>
+	<Article>
+		<NA>36</NA>
+		<TI>[Will RFID technology improve economic efficiency and patient safety?].</TI>
+		<DP>2012</DP>
+		<PA>Germany</PA>
+		<AU>Weiß J</AU>
+	</Article>
+	<Article>
+		<NA>37</NA>
+		<TI>Error probability for RFID SAW tags with pulse position coding and peak-pulse detection.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Shmaliy Yuriy S</AU>
+		<AU>Plessky Victor</AU>
+		<AU>Cerda-Villafaña Gustavo</AU>
+		<AU>Ibarra-Manzano Oscar</AU>
+	</Article>
+	<Article>
+		<NA>38</NA>
+		<TI>RFID: a medical miracle?</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Kohler Mike</AU>
+	</Article>
+	<Article>
+		<NA>39</NA>
+		<TI>Behavior-based cleaning for unreliable RFID data sets.</TI>
+		<DP>2012</DP>
+		<PA>Switzerland</PA>
+		<AU>Fan Hua</AU>
+		<AU>Wu Quanyuan</AU>
+		<AU>Lin Yisong</AU>
+	</Article>
+	<Article>
+		<NA>40</NA>
+		<TI>Managing RFID sensors networks with a general purpose RFID middleware.</TI>
+		<DP>2012</DP>
+		<PA>Switzerland</PA>
+		<AU>Abad Ismael</AU>
+		<AU>Cerrada Carlos</AU>
+		<AU>Cerrada Jose A</AU>
+		<AU>Heradio Rubén</AU>
+		<AU>Valero Enrique</AU>
+	</Article>
+	<Article>
+		<NA>41</NA>
+		<TI>Properties of coatings on RFID p-Chips that support plasmonic fluorescence enhancement in bioassays.</TI>
+		<DP>2012</DP>
+		<PA>Germany</PA>
+		<AU>Rich Ryan</AU>
+		<AU>Li Ji</AU>
+		<AU>Fudala Rafal</AU>
+		<AU>Gryczynski Zygmunt</AU>
+		<AU>Gryczynski Ignacy</AU>
+		<AU>Mandecki Wlodek</AU>
+	</Article>
+	<Article>
+		<NA>42</NA>
+		<TI>A review of tags anti-collision and localization protocols in RFID networks.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Ullah S</AU>
+		<AU>Alsalih W</AU>
+		<AU>Alsehaim A</AU>
+		<AU>Alsadhan N</AU>
+	</Article>
+	<Article>
+		<NA>43</NA>
+		<TI>Risk Management: Integration of a passive UHF-RFID system in medical environment.</TI>
+		<DP>2012</DP>
+		<PA/>
+		<AU>Mabrouk Ziad</AU>
+		<AU>Ying Yue</AU>
+		<AU>Hölscher Uvo M</AU>
+	</Article>
+	<Article>
+		<NA>44</NA>
+		<TI>RFID-based surgical instrument detection using Hidden Markov models.</TI>
+		<DP>2012</DP>
+		<PA/>
+		<AU>Meißner C</AU>
+		<AU>Neumuth T</AU>
+	</Article>
+	<Article>
+		<NA>45</NA>
+		<TI>Pseudo-orthogonal frequency coded wireless SAW RFID temperature sensor tags.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Saldanha Nancy</AU>
+		<AU>Malocha Donald C</AU>
+	</Article>
+	<Article>
+		<NA>46</NA>
+		<TI>Battery-free radio frequency identification (RFID) sensors for food quality and safety.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Potyrailo Radislav A</AU>
+		<AU>Nagraj Nandini</AU>
+		<AU>Tang Zhexiong</AU>
+		<AU>Mondello Frank J</AU>
+		<AU>Surman Cheryl</AU>
+		<AU>Morris William</AU>
+	</Article>
+	<Article>
+		<NA>47</NA>
+		<TI>On the designing of a tamper resistant prescription RFID access control system.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Safkhani Masoumeh</AU>
+		<AU>Bagheri Nasour</AU>
+		<AU>Naderi Majid</AU>
+	</Article>
+	<Article>
+		<NA>48</NA>
+		<TI>Sensor-enabled RFID system for monitoring arm activity: reliability and validity.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Barman Joydip</AU>
+		<AU>Uswatte Gitendra</AU>
+		<AU>Ghaffari Touraj</AU>
+		<AU>Sokal Brad</AU>
+		<AU>Byrom Ezekiel</AU>
+		<AU>Trinh Eva</AU>
+		<AU>Brewer Michael</AU>
+		<AU>Varghese Christopher</AU>
+		<AU>Sarkar Nilanjan</AU>
+	</Article>
+	<Article>
+		<NA>49</NA>
+		<TI>Electronic individual identification of zebrafish using radio frequency identification (RFID) microtags.</TI>
+		<DP>2012</DP>
+		<PA>England</PA>
+		<AU>Cousin Xavier</AU>
+		<AU>Daouk Tarek</AU>
+		<AU>Péan Samuel</AU>
+		<AU>Lyphout Laura</AU>
+		<AU>Schwartz Marie-Elise</AU>
+		<AU>Bégout Marie-Laure</AU>
+	</Article>
+	<Article>
+		<NA>50</NA>
+		<TI>A novel technology for motion capture using passive UHF RFID tags.</TI>
+		<DP>2013</DP>
+		<PA>United States</PA>
+		<AU>Krigslund R</AU>
+		<AU>Dosen S</AU>
+		<AU>Popovski P</AU>
+		<AU>Dideriksen J L</AU>
+		<AU>Pedersen G F</AU>
+		<AU>Farina D</AU>
+	</Article>
+	<Article>
+		<NA>51</NA>
+		<TI>Application of RFID technology in patient tracking and medication traceability in emergency care.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Martínez Pérez María</AU>
+		<AU>Cabrero-Canosa Mariano</AU>
+		<AU>Vizoso Hermida José</AU>
+		<AU>Carrajo García Lino</AU>
+		<AU>Llamas Gómez Daniel</AU>
+		<AU>Vázquez González Guillermo</AU>
+		<AU>Martín Herranz Isabel</AU>
+	</Article>
+	<Article>
+		<NA>52</NA>
+		<TI>Automatic construction of 3D basic-semantic models of inhabited interiors using laser scanners and RFID sensors.</TI>
+		<DP>2012</DP>
+		<PA>Switzerland</PA>
+		<AU>Valero Enrique</AU>
+		<AU>Adan Antonio</AU>
+		<AU>Cerrada Carlos</AU>
+	</Article>
+	<Article>
+		<NA>53</NA>
+		<TI>RFID in healthcare: a Six Sigma DMAIC and simulation case study.</TI>
+		<DP>2012</DP>
+		<PA>England</PA>
+		<AU>Southard Peter B</AU>
+		<AU>Chandra Charu</AU>
+		<AU>Kumar Sameer</AU>
+	</Article>
+	<Article>
+		<NA>54</NA>
+		<TI>[Central sterile supply department management system design and implementation based on RFID technology].</TI>
+		<DP>2012</DP>
+		<PA>China</PA>
+		<AU>Li Lei</AU>
+	</Article>
+	<Article>
+		<NA>55</NA>
+		<TI>Evaluation of thermal and non-thermal effects of UHF RFID exposure on biological drugs.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Calcagnini Giovanni</AU>
+		<AU>Censi Federica</AU>
+		<AU>Maffia Michele</AU>
+		<AU>Mainetti Luca</AU>
+		<AU>Mattei Eugenio</AU>
+		<AU>Patrono Luigi</AU>
+		<AU>Urso Emanuela</AU>
+	</Article>
+	<Article>
+		<NA>56</NA>
+		<TI>A system utilizing radio frequency identification (RFID) technology to monitor individual rodent behavior in complex social settings.</TI>
+		<DP>2012</DP>
+		<PA>Netherlands</PA>
+		<AU>Howerton Christopher L</AU>
+		<AU>Garner Joseph P</AU>
+		<AU>Mench Joy A</AU>
+	</Article>
+	<Article>
+		<NA>57</NA>
+		<TI>Reducing false negative reads in RFID data streams using an adaptive sliding-window approach.</TI>
+		<DP>2012</DP>
+		<PA>Switzerland</PA>
+		<AU>Massawe Libe Valentine</AU>
+		<AU>Kinyua Johnson D M</AU>
+		<AU>Vermaak Herman</AU>
+	</Article>
+	<Article>
+		<NA>58</NA>
+		<TI>Implementing RFID in a hospital library: a scoping study.</TI>
+		<DP>2012</DP>
+		<PA>England</PA>
+		<AU>Norwood Joseph</AU>
+		<AU>Skinner Ben</AU>
+	</Article>
+	<Article>
+		<NA>59</NA>
+		<TI>Increased situation awareness in major incidents-radio frequency identification (RFID) technique: a promising tool.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Jokela Jorma</AU>
+		<AU>Rådestad Monica</AU>
+		<AU>Gryth Dan</AU>
+		<AU>Nilsson Helené</AU>
+		<AU>Rüter Anders</AU>
+		<AU>Svensson Leif</AU>
+		<AU>Harkke Ville</AU>
+		<AU>Luoto Markku</AU>
+		<AU>Castrén Maaret</AU>
+	</Article>
+	<Article>
+		<NA>60</NA>
+		<TI>Creation of a RFID based real time tracking (R-RTT) system for small healthcare clinics.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Chen Joseph C</AU>
+		<AU>Collins Thomas J</AU>
+	</Article>
+	<Article>
+		<NA>61</NA>
+		<TI>Introducing RFID technology in dynamic and time-critical medical settings: requirements and challenges.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Parlak Siddika</AU>
+		<AU>Sarcevic Aleksandra</AU>
+		<AU>Marsic Ivan</AU>
+		<AU>Burd Randall S</AU>
+	</Article>
+	<Article>
+		<NA>62</NA>
+		<TI>Monitoring, control and diagnostics using RFID infrastructure.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Pleteršek Anton</AU>
+		<AU>Sok Miha</AU>
+		<AU>Trontelj Janez</AU>
+	</Article>
+	<Article>
+		<NA>63</NA>
+		<TI>Radio frequency identification (RFID) of dentures in long-term care facilities.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Madrid Carlos</AU>
+		<AU>Korsvold Tové</AU>
+		<AU>Rochat Aline</AU>
+		<AU>Abarca Marcelo</AU>
+	</Article>
+	<Article>
+		<NA>64</NA>
+		<TI>Development of an ease-of-use remote healthcare system architecture using RFID and networking technologies.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Lin Shih-Sung</AU>
+		<AU>Hung Min-Hsiung</AU>
+		<AU>Tsai Chang-Lung</AU>
+		<AU>Chou Li-Ping</AU>
+	</Article>
+	<Article>
+		<NA>65</NA>
+		<TI>Multivariable passive RFID vapor sensors: roll-to-roll fabrication on a flexible substrate.</TI>
+		<DP>2012</DP>
+		<PA>England</PA>
+		<AU>Potyrailo Radislav A</AU>
+		<AU>Burns Andrew</AU>
+		<AU>Surman Cheryl</AU>
+		<AU>Lee D J</AU>
+		<AU>McGinniss Edward</AU>
+	</Article>
+	<Article>
+		<NA>66</NA>
+		<TI>Interoperation of an UHF RFID reader and a TCP/IP device via wired and wireless links.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Lee Sang Hoon</AU>
+		<AU>Jin Ik Soo</AU>
+	</Article>
+	<Article>
+		<NA>67</NA>
+		<TI>Improved Kalman filter method for measurement noise reduction in multi sensor RFID systems.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Eom Ki Hwan</AU>
+		<AU>Lee Seung Joon</AU>
+		<AU>Kyung Yeo Sun</AU>
+		<AU>Lee Chang Won</AU>
+		<AU>Kim Min Chul</AU>
+		<AU>Jung Kyung Kwon</AU>
+	</Article>
+	<Article>
+		<NA>68</NA>
+		<TI>A novel sensor-assisted RFID-based indoor tracking system for the elderly living alone.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Hsu Chien-Chang</AU>
+		<AU>Chen Jun-Hao</AU>
+	</Article>
+	<Article>
+		<NA>69</NA>
+		<TI>RFID label tag design for metallic surface environments.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Park Chong Ryol</AU>
+		<AU>Eom Ki Hwan</AU>
+	</Article>
+	<Article>
+		<NA>70</NA>
+		<TI>Indoor localization using pedestrian dead reckoning updated with RFID-based fiducials.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>House Samuel</AU>
+		<AU>Connell Sean</AU>
+		<AU>Milligan Ian</AU>
+		<AU>Austin Daniel</AU>
+		<AU>Hayes Tamara L</AU>
+		<AU>Chiang Patrick</AU>
+	</Article>
+	<Article>
+		<NA>71</NA>
+		<TI>Sensor-enabled RFID system for monitoring arm activity in daily life.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Barman Joydip</AU>
+		<AU>Uswatte Gitendra</AU>
+		<AU>Sarkar Nilanjan</AU>
+		<AU>Ghaffari Touraj</AU>
+		<AU>Sokal Brad</AU>
+	</Article>
+	<Article>
+		<NA>72</NA>
+		<TI>Design and implementation of a volume conduction based RFID system for smart implants.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Liu Xiaoyu</AU>
+		<AU>Ogirala Ajay</AU>
+		<AU>Berger Lee</AU>
+		<AU>Mickle Marlin</AU>
+	</Article>
+	<Article>
+		<NA>73</NA>
+		<TI>A warning system based on the RFID technology for running-out of injection fluid.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Huang Chi-Fang</AU>
+		<AU>Lin Jen-Hung</AU>
+	</Article>
+	<Article>
+		<NA>74</NA>
+		<TI>RiBOMS: RFID-based object management system for home environments.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Iraola Hodei</AU>
+		<AU>Schafer James</AU>
+		<AU>Yu Xunyi</AU>
+		<AU>Mullett Gary</AU>
+		<AU>Ganz Aura</AU>
+	</Article>
+	<Article>
+		<NA>75</NA>
+		<TI>Radio Frequency Identification (RFID) in medical environment: Gaussian Derivative Frequency Modulation (GDFM) as a novel modulation technique with minimal interference properties.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Rieche Marie</AU>
+		<AU>Komenský Tomás</AU>
+		<AU>Husar Peter</AU>
+	</Article>
+	<Article>
+		<NA>76</NA>
+		<TI>RFID tracking of sublethal effects of two neonicotinoid insecticides on the foraging behavior of Apis mellifera.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Schneider Christof W</AU>
+		<AU>Tautz Jürgen</AU>
+		<AU>Grünewald Bernd</AU>
+		<AU>Fuchs Stefan</AU>
+	</Article>
+	<Article>
+		<NA>77</NA>
+		<TI>RFID Technology in Health Environment Opportunities and Challenges for Modern Cancer Care.</TI>
+		<DP>2012</DP>
+		<PA>Thailand</PA>
+		<AU>Safdari Reza</AU>
+		<AU>Maserat Elham</AU>
+		<AU>Maserat Elnaz</AU>
+	</Article>
+	<Article>
+		<NA>78</NA>
+		<TI>The design of RFID convey or belt gate systems using an antenna control unit.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Park Chong Ryol</AU>
+		<AU>Lee Seung Joon</AU>
+		<AU>Eom Ki Hwan</AU>
+	</Article>
+	<Article>
+		<NA>79</NA>
+		<TI>Energy efficient in-network RFID data filtering scheme in wireless sensor networks.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Bashir Ali Kashif</AU>
+		<AU>Lim Se-Jung</AU>
+		<AU>Hussain Chauhdary Sajjad</AU>
+		<AU>Park Myong-Soon</AU>
+	</Article>
+	<Article>
+		<NA>80</NA>
+		<TI>Security enhancement mechanism based on contextual authentication and role analysis for 2G-RFID systems.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Tang Wan</AU>
+		<AU>Chen Min</AU>
+		<AU>Ni Jin</AU>
+		<AU>Yang Ximin</AU>
+	</Article>
+	<Article>
+		<NA>81</NA>
+		<TI>New analysis and design of a RF rectifier for RFID and implantable devices.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Liu Dong-Sheng</AU>
+		<AU>Li Feng-Bo</AU>
+		<AU>Zou Xue-Cheng</AU>
+		<AU>Liu Yao</AU>
+		<AU>Hui Xue-Mei</AU>
+		<AU>Tao Xiong-Fei</AU>
+	</Article>
+	<Article>
+		<NA>82</NA>
+		<TI>On the optimal identification of tag sets in time-constrained RFID configurations.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Vales-Alonso Javier</AU>
+		<AU>Bueno-Delgado María Victoria</AU>
+		<AU>Egea-López Esteban</AU>
+		<AU>Alcaraz Juan José</AU>
+		<AU>Pérez-Mañogil Juan Manuel</AU>
+	</Article>
+	<Article>
+		<NA>83</NA>
+		<TI>An MILP-based cross-layer optimization for a multi-reader arbitration in the UHF RFID system.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Choi Jinchul</AU>
+		<AU>Lee Chaewoo</AU>
+	</Article>
+	<Article>
+		<NA>84</NA>
+		<TI>An approach for removing redundant data from RFID data streams.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Mahdin Hairulnizam</AU>
+		<AU>Abawajy Jemal</AU>
+	</Article>
+	<Article>
+		<NA>85</NA>
+		<TI>A new laboratory radio frequency identification (RFID) system for behavioural tracking of marine organisms.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Aguzzi Jacopo</AU>
+		<AU>Sbragaglia Valerio</AU>
+		<AU>Sarriá David</AU>
+		<AU>García José Antonio</AU>
+		<AU>Costa Corrado</AU>
+		<AU>del Río Joaquín</AU>
+		<AU>Mànuel Antoni</AU>
+		<AU>Menesatti Paolo</AU>
+		<AU>Sardà Francesc</AU>
+	</Article>
+	<Article>
+		<NA>86</NA>
+		<TI>Design of a covert RFID tag network for target discovery and target information routing.</TI>
+		<DP>2011</DP>
+		<PA>Switzerland</PA>
+		<AU>Pan Qihe</AU>
+		<AU>Narayanan Ram M</AU>
+	</Article>
+	<Article>
+		<NA>87</NA>
+		<TI>Printed UHF RFID antennas with high efficiencies using nano-particle silver ink.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Lee Yongshik</AU>
+		<AU>Kim Chung Hwan</AU>
+		<AU>Shin Dong-Youn</AU>
+		<AU>Kim Young Gook</AU>
+	</Article>
+	<Article>
+		<NA>88</NA>
+		<TI>Guest editorial for the special issue on RFID-enabled healthcare: applications, issues and benefits.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Fosso Wamba Samuel</AU>
+	</Article>
+	<Article>
+		<NA>89</NA>
+		<TI>RFID-enabled healthcare applications, issues and benefits: an archival analysis (1997-2011).</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Fosso Wamba Samuel</AU>
+	</Article>
+	<Article>
+		<NA>90</NA>
+		<TI>RFID-enabled traceability system for consignment and high value products: a case study in the healthcare sector.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Bendavid Ygal</AU>
+		<AU>Boeck Harold</AU>
+		<AU>Philippe Richard</AU>
+	</Article>
+	<Article>
+		<NA>91</NA>
+		<TI>Implement the RFID position based system of automatic tablets packaging machine for patient safety.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Chang Ching-Hsiang</AU>
+		<AU>Lai Yeong-Lin</AU>
+		<AU>Chen Chih-Cheng</AU>
+	</Article>
+	<Article>
+		<NA>92</NA>
+		<TI>RFID sensor-tags feeding a context-aware rule-based healthcare monitoring system.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Catarinucci Luca</AU>
+		<AU>Colella Riccardo</AU>
+		<AU>Esposito Alessandra</AU>
+		<AU>Tarricone Luciano</AU>
+		<AU>Zappatore Marco</AU>
+	</Article>
+	<Article>
+		<NA>93</NA>
+		<TI>Applied patent RFID systems for building reacting HEPA air ventilation system in hospital operation rooms.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Lin Jesun</AU>
+		<AU>Pai Jar-Yuan</AU>
+		<AU>Chen Chih-Cheng</AU>
+	</Article>
+	<Article>
+		<NA>94</NA>
+		<TI>Applying radio-frequency identification (RFID) technology in transfusion medicine.</TI>
+		<DP>2012</DP>
+		<PA>England</PA>
+		<AU>Hohberger Clive</AU>
+		<AU>Davis Rodeina</AU>
+		<AU>Briggs Lynne</AU>
+		<AU>Gutierrez Alfonso</AU>
+		<AU>Veeramani Dhamaraj</AU>
+	</Article>
+	<Article>
+		<NA>95</NA>
+		<TI>Deployment of RFID in healthcare facilities-experimental design in MRI department.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Cheng Chen-Yang</AU>
+		<AU>Chai Jyh-Wen</AU>
+	</Article>
+	<Article>
+		<NA>96</NA>
+		<TI>Enhanced UHF RFID tags for drug tracing.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Catarinucci Luca</AU>
+		<AU>Colella Riccardo</AU>
+		<AU>De Blasi Mario</AU>
+		<AU>Patrono Luigi</AU>
+		<AU>Tarricone Luciano</AU>
+	</Article>
+	<Article>
+		<NA>97</NA>
+		<TI>Automation in blood banking: RFID.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Wray Bruce R</AU>
+	</Article>
+	<Article>
+		<NA>98</NA>
+		<TI>A novel method for inferring RFID tag reader recordings into clinical events.</TI>
+		<DP>2011</DP>
+		<PA>Ireland</PA>
+		<AU>Chang Yung-Ting</AU>
+		<AU>Syed-Abdul Shabbir</AU>
+		<AU>Tsai Chung-You</AU>
+		<AU>Li Yu-Chuan</AU>
+	</Article>
+	<Article>
+		<NA>99</NA>
+		<TI>The adoption and implementation of RFID technologies in healthcare: a literature review.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Yao Wen</AU>
+		<AU>Chu Chao-Hsien</AU>
+		<AU>Li Zang</AU>
+	</Article>
+	<Article>
+		<NA>100</NA>
+		<TI>RFID system for newborn identity reconfirmation in hospital: exposure assessment of a realistic newborn model and effects of the change of the dielectric properties with age.</TI>
+		<DP>2011</DP>
+		<PA>England</PA>
+		<AU>Fiocchi Serena</AU>
+		<AU>Parazzini Marta</AU>
+		<AU>Ravazzani Paolo</AU>
+	</Article>
+	<Article>
+		<NA>101</NA>
+		<TI>A secure lightweight RFID binding proof protocol for medication errors and patient safety.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Wu Shuhua</AU>
+		<AU>Chen Kefei</AU>
+		<AU>Zhu Yuefei</AU>
+	</Article>
+	<Article>
+		<NA>102</NA>
+		<TI>Radio Frequency Identification (RFID) and communication technologies for solid waste bin and truck monitoring system.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Hannan M A</AU>
+		<AU>Arebey Maher</AU>
+		<AU>Begum R A</AU>
+		<AU>Basri Hassan</AU>
+	</Article>
+	<Article>
+		<NA>103</NA>
+		<TI>WiFi RFID demonstration for resource tracking in a statewide disaster drill.</TI>
+		<DP/>
+		<PA>United States</PA>
+		<AU>Cole Stacey L</AU>
+		<AU>Siddiqui Javeed</AU>
+		<AU>Harry David J</AU>
+		<AU>Sandrock Christian E</AU>
+	</Article>
+	<Article>
+		<NA>104</NA>
+		<TI>Using RFID yoking proof protocol to enhance inpatient medication safety.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Chen Chin-Ling</AU>
+		<AU>Wu Chun-Yi</AU>
+	</Article>
+	<Article>
+		<NA>105</NA>
+		<TI>ECC-based grouping-proof RFID for inpatient medication safety.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Lin Qiping</AU>
+		<AU>Zhang Fangguo</AU>
+	</Article>
+	<Article>
+		<NA>106</NA>
+		<TI>A design of tamper resistant prescription RFID access control system.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Chen Yu-Yi</AU>
+		<AU>Huang Der-Chen</AU>
+		<AU>Tsai Meng-Lin</AU>
+		<AU>Jan Jinn-Ke</AU>
+	</Article>
+	<Article>
+		<NA>107</NA>
+		<TI>Two RFID-based solutions for secure inpatient medication administration.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Yen Yi-Chung</AU>
+		<AU>Lo Nai-Wei</AU>
+		<AU>Wu Tzong-Chen</AU>
+	</Article>
+	<Article>
+		<NA>108</NA>
+		<TI>Data collection in a live mass casualty incident simulation: automated RFID technology versus manually recorded system.</TI>
+		<DP>2012</DP>
+		<PA>England</PA>
+		<AU>Ingrassia Pier Luigi</AU>
+		<AU>Carenzo Luca</AU>
+		<AU>Barra Federico Lorenzo</AU>
+		<AU>Colombo Davide</AU>
+		<AU>Ragazzoni Luca</AU>
+		<AU>Tengattini Marco</AU>
+		<AU>Prato Federico</AU>
+		<AU>Geddo Alessandro</AU>
+		<AU>Della Corte Francesco</AU>
+	</Article>
+	<Article>
+		<NA>109</NA>
+		<TI>Electromagnetic compatibility of implantable neurostimulators to RFID emitters.</TI>
+		<DP>2011</DP>
+		<PA>England</PA>
+		<AU>Pantchenko Oxana S</AU>
+		<AU>Seidman Seth J</AU>
+		<AU>Guag Joshua W</AU>
+		<AU>Witters Donald M</AU>
+		<AU>Sponberg Curt L</AU>
+	</Article>
+	<Article>
+		<NA>110</NA>
+		<TI>Improving medical device connectivity. Both bar coding and RFID technologies can be applied to improve workflow.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>McAlpine Brian</AU>
+	</Article>
+	<Article>
+		<NA>111</NA>
+		<TI>RFID as a new ICT tool to monitor specimen life cycle and quality control in a biobank.</TI>
+		<DP/>
+		<PA>Italy</PA>
+		<AU>Nanni Umberto</AU>
+		<AU>Spila Antonella</AU>
+		<AU>Riondino Silvia</AU>
+		<AU>Valente Maria Giovanna</AU>
+		<AU>Somma Paolo</AU>
+		<AU>Iacoboni Mauro</AU>
+		<AU>Alessandroni Jhessica</AU>
+		<AU>Papa Veronica</AU>
+		<AU>Della-Morte David</AU>
+		<AU>Palmirotta Raffaele</AU>
+		<AU>Ferroni Patrizia</AU>
+		<AU>Roselli Mario</AU>
+		<AU>Guadagni Fiorella</AU>
+	</Article>
+	<Article>
+		<NA>112</NA>
+		<TI>Real-time monitoring for detection of retained surgical sponges and team motion in the surgical operation room using radio-frequency-identification (RFID) technology: a preclinical evaluation.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Kranzfelder Michael</AU>
+		<AU>Zywitza Dorit</AU>
+		<AU>Jell Thomas</AU>
+		<AU>Schneider Armin</AU>
+		<AU>Gillen Sonja</AU>
+		<AU>Friess Helmut</AU>
+		<AU>Feussner Hubertus</AU>
+	</Article>
+	<Article>
+		<NA>113</NA>
+		<TI>Passive multivariable temperature and conductivity RFID sensors for single-use biopharmaceutical manufacturing components.</TI>
+		<DP/>
+		<PA>United States</PA>
+		<AU>Potyrailo Radislav A</AU>
+		<AU>Wortley Timothy</AU>
+		<AU>Surman Cheryl</AU>
+		<AU>Monk David</AU>
+		<AU>Morris William G</AU>
+		<AU>Vincent Mark</AU>
+		<AU>Diana Rafael</AU>
+		<AU>Pizzi Vincent</AU>
+		<AU>Carter Jeffrey</AU>
+		<AU>Gach Gerard</AU>
+		<AU>Klensmeden Staffan</AU>
+		<AU>Ehring Hanno</AU>
+	</Article>
+	<Article>
+		<NA>114</NA>
+		<TI>Integration of RFID and web service for assisted living.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Unluturk Mehmet S</AU>
+		<AU>Kurtel Kaan</AU>
+	</Article>
+	<Article>
+		<NA>115</NA>
+		<TI>Monitoring dressing activity failures through RFID and video.</TI>
+		<DP>2012</DP>
+		<PA>Germany</PA>
+		<AU>Matic A</AU>
+		<AU>Mehta P</AU>
+		<AU>Rehg J M</AU>
+		<AU>Osmani V</AU>
+		<AU>Mayora O</AU>
+	</Article>
+	<Article>
+		<NA>116</NA>
+		<TI>Keeping track. Barcodes and RFID tags make inroads in hospitals.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Degaspari John</AU>
+	</Article>
+	<Article>
+		<NA>117</NA>
+		<TI>Computational exposure assessment of electromagnetic fields generated by an RFID system for mother--newborn identity reconfirmation.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Fiocchi Serena</AU>
+		<AU>Parazzini Marta</AU>
+		<AU>Paglialonga Alessia</AU>
+		<AU>Ravazzani Paolo</AU>
+	</Article>
+	<Article>
+		<NA>118</NA>
+		<TI>Influence of RFID tags on recyclability of plastic packaging.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Aliaga César</AU>
+		<AU>Ferreira Beatriz</AU>
+		<AU>Hortal Mercedes</AU>
+		<AU>Pancorbo María Ángeles</AU>
+		<AU>López José Manuel</AU>
+		<AU>Navas Francisco Javier</AU>
+	</Article>
+	<Article>
+		<NA>119</NA>
+		<TI>An RFID-Based Closed-Loop Wireless Power Transmission System for Biomedical Applications.</TI>
+		<DP>2010</DP>
+		<PA/>
+		<AU>Kiani Mehdi</AU>
+		<AU>Ghovanloo Maysam</AU>
+	</Article>
+	<Article>
+		<NA>120</NA>
+		<TI>A framework for performance and data quality assessment of Radio Frequency IDentification (RFID) systems in health care settings.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>van der Togt Remko</AU>
+		<AU>Bakker Piet J M</AU>
+		<AU>Jaspers Monique W M</AU>
+	</Article>
+	<Article>
+		<NA>121</NA>
+		<TI>A comprehensive RFID solution to enhance inpatient medication safety.</TI>
+		<DP>2011</DP>
+		<PA>Ireland</PA>
+		<AU>Peris-Lopez Pedro</AU>
+		<AU>Orfila Agustin</AU>
+		<AU>Mitrokotsa Aikaterini</AU>
+		<AU>van der Lubbe Jan C A</AU>
+	</Article>
+	<Article>
+		<NA>122</NA>
+		<TI>RFID in healthcare environment: electromagnetic compatibility regulatory issues.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Censi Federica</AU>
+		<AU>Calcagnini Giovanni</AU>
+		<AU>Mattei Eugenio</AU>
+		<AU>Triventi Michele</AU>
+		<AU>Bartolini Pietro</AU>
+	</Article>
+	<Article>
+		<NA>123</NA>
+		<TI>Intelligent medicine case system with distributed RFID readers.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Suzuki Takuo</AU>
+		<AU>Oyama Yuya</AU>
+		<AU>Nakauchi Yasushi</AU>
+	</Article>
+	<Article>
+		<NA>124</NA>
+		<TI>INSIGHT: RFID and Bluetooth enabled automated space for the blind and visually impaired.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Ganz Aura</AU>
+		<AU>Gandhi Siddhesh Rajan</AU>
+		<AU>Wilson Carole</AU>
+		<AU>Mullett Gary</AU>
+	</Article>
+	<Article>
+		<NA>125</NA>
+		<TI>RMAIS: RFID-based medication Adherence Intelligence System.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>McCall Corey</AU>
+		<AU>Maynes Branden</AU>
+		<AU>Zou Cliff C</AU>
+		<AU>Zhang Ning J</AU>
+	</Article>
+	<Article>
+		<NA>126</NA>
+		<TI>RFID-initiated workflow control to facilitate patient safety and utilization efficiency in operation theater.</TI>
+		<DP>2011</DP>
+		<PA>Ireland</PA>
+		<AU>Liu Charles C H</AU>
+		<AU>Chang Chia-Huang</AU>
+		<AU>Su Mu-Chun</AU>
+		<AU>Chu Hsueh-Ting</AU>
+		<AU>Hung Sheng-Hui</AU>
+		<AU>Wong Jau-Min</AU>
+		<AU>Wang Pa-Chun</AU>
+	</Article>
+	<Article>
+		<NA>127</NA>
+		<TI>Implanting inequality: empirical evidence of social and ethical risks of implantable radio-frequency identification (RFID) devices.</TI>
+		<DP>2010</DP>
+		<PA>England</PA>
+		<AU>Monahan Torin</AU>
+		<AU>Fisher Jill A</AU>
+	</Article>
+	<Article>
+		<NA>128</NA>
+		<TI>A new specimen management system using RFID technology.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Shim Hun</AU>
+		<AU>Uh Young</AU>
+		<AU>Lee Seung Hwan</AU>
+		<AU>Yoon Young Ro</AU>
+	</Article>
+	<Article>
+		<NA>129</NA>
+		<TI>Patient safety through RFID: vulnerabilities in recently proposed grouping protocols.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Wickboldt Anne-Katrin</AU>
+		<AU>Piramuthu Selwyn</AU>
+	</Article>
+	<Article>
+		<NA>130</NA>
+		<TI>Low cost RFID real lightweight binding proof protocol for medication errors and patient safety.</TI>
+		<DP>2012</DP>
+		<PA>United States</PA>
+		<AU>Yu Yao-Chang</AU>
+		<AU>Hou Ting-Wei</AU>
+		<AU>Chiang Tzu-Chiang</AU>
+	</Article>
+	<Article>
+		<NA>131</NA>
+		<TI>Understanding performance and behavior of tightly coupled outpatient systems using RFID: initial experience.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Stahl James E</AU>
+		<AU>Holt Julie K</AU>
+		<AU>Gagliano Nancy J</AU>
+	</Article>
+	<Article>
+		<NA>132</NA>
+		<TI>Two RFID-based solutions to enhance inpatient medication safety.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Chien Hung-Yu</AU>
+		<AU>Yang Chia-Chuan</AU>
+		<AU>Wu Tzong-Chen</AU>
+		<AU>Lee Chin-Feng</AU>
+	</Article>
+	<Article>
+		<NA>133</NA>
+		<TI>Fuzzy logic-based approach to detecting a passive RFID tag in an outpatient clinic.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Min Daiki</AU>
+		<AU>Yih Yuehwern</AU>
+	</Article>
+	<Article>
+		<NA>134</NA>
+		<TI>Critical elements and lessons learnt from the implementation of an RFID-enabled healthcare management system in a medical organization.</TI>
+		<DP>2011</DP>
+		<PA>United States</PA>
+		<AU>Ting S L</AU>
+		<AU>Kwok S K</AU>
+		<AU>Tsang Albert H C</AU>
+		<AU>Lee W B</AU>
+	</Article>
+	<Article>
+		<NA>135</NA>
+		<TI>Dynamics of person-to-person interactions from distributed RFID sensor networks.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Cattuto Ciro</AU>
+		<AU>Van den Broeck Wouter</AU>
+		<AU>Barrat Alain</AU>
+		<AU>Colizza Vittoria</AU>
+		<AU>Pinton Jean-François</AU>
+		<AU>Vespignani Alessandro</AU>
+	</Article>
+	<Article>
+		<NA>136</NA>
+		<TI>A low-power RFID integrated circuits for intelligent healthcare systems.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Lee Shuenn-Yuh</AU>
+		<AU>Wang Liang-Hung</AU>
+		<AU>Fang Qiang</AU>
+	</Article>
+	<Article>
+		<NA>137</NA>
+		<TI>Guidelines for the use of RFID technology in transfusion medicine.</TI>
+		<DP>2010</DP>
+		<PA>England</PA>
+		<AU>Knels Ralf</AU>
+		<AU>Ashford Paul</AU>
+		<AU>Bidet Francois</AU>
+		<AU>Böcker Wolfgang</AU>
+		<AU>Briggs Lynne</AU>
+		<AU>Bruce Pia</AU>
+		<AU>Csöre Miklós</AU>
+		<AU>Distler Pat</AU>
+		<AU>Gutierrez Alfonso</AU>
+		<AU>Henderson Ian</AU>
+		<AU>Hohberger Clive</AU>
+		<AU>Holcombe Jerry</AU>
+		<AU>Holmberg Jerry</AU>
+		<AU>Hulleman Rik</AU>
+		<AU>Marcel Brian</AU>
+		<AU>Messenger Paul</AU>
+		<AU>Mun In</AU>
+		<AU>Roberts Stanley</AU>
+		<AU>Sandler Gerald</AU>
+		<AU>Veeramani Raj</AU>
+		<AU>Wray Bruce</AU>
+		<AU> </AU>
+		<AU> </AU>
+	</Article>
+	<Article>
+		<NA>138</NA>
+		<TI>Pharmaceutical counterfeiting and the RFID technology intervention.</TI>
+		<DP>2010</DP>
+		<PA>England</PA>
+		<AU>Coustasse Alberto</AU>
+		<AU>Arvidson Cody</AU>
+		<AU>Rutsohn Phil</AU>
+	</Article>
+	<Article>
+		<NA>139</NA>
+		<TI>The potential of RFID technology in Blood Center processes.</TI>
+		<DP>2010</DP>
+		<PA>Netherlands</PA>
+		<AU>Kebo V</AU>
+		<AU>Klement P</AU>
+		<AU>Cermáková Z</AU>
+		<AU>Gottfried J</AU>
+		<AU>Sommerová M</AU>
+		<AU>Palecek A</AU>
+	</Article>
+	<Article>
+		<NA>140</NA>
+		<TI>An experimental method for obtaining device parameters of SAW RFID tags.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Peng Dasong</AU>
+		<AU>Yu Fengqi</AU>
+	</Article>
+	<Article>
+		<NA>141</NA>
+		<TI>Smart medical environment at the point of care: auto-tracking clinical interventions at the bed side using RFID technology.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Ohashi Kumiko</AU>
+		<AU>Ota Sakiko</AU>
+		<AU>Ohno-Machado Lucila</AU>
+		<AU>Tanaka Hiroshi</AU>
+	</Article>
+	<Article>
+		<NA>142</NA>
+		<TI>Field evaluation of measuring indoor noise exposure in workplace with task-based active RFID technology.</TI>
+		<DP>2010</DP>
+		<PA>England</PA>
+		<AU>Huang Fu-Chuan</AU>
+		<AU>Shih Tung-Sheng</AU>
+		<AU>Lee Jiunn-Fwu</AU>
+		<AU>Wang Te-Shun</AU>
+		<AU>Wang Peng-Yau</AU>
+	</Article>
+	<Article>
+		<NA>143</NA>
+		<TI>Study tests RFID tag safety.</TI>
+		<DP/>
+		<PA>United States</PA>
+	</Article>
+	<Article>
+		<NA>144</NA>
+		<TI>Stage implementation of RFID in hospitals.</TI>
+		<DP>2010</DP>
+		<PA>Netherlands</PA>
+		<AU>Kumar Sameer</AU>
+		<AU>Livermont Gregory</AU>
+		<AU>McKewan Gregory</AU>
+	</Article>
+	<Article>
+		<NA>145</NA>
+		<TI>Beyond inventory control: understanding RFID and its applications.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Frisch Paul H</AU>
+		<AU>Booth Paul</AU>
+		<AU>Miodownik Saul</AU>
+	</Article>
+	<Article>
+		<NA>146</NA>
+		<TI>Review on SAW RFID tags.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Plessky Victor P</AU>
+		<AU>Reindl Leonhard M</AU>
+	</Article>
+	<Article>
+		<NA>147</NA>
+		<TI>Time location analysis for exposure assessment studies of indoor workers based on active RFID technology.</TI>
+		<DP>2010</DP>
+		<PA>England</PA>
+		<AU>Huang Fu-Chuan</AU>
+		<AU>Shih Tung-Sheng</AU>
+		<AU>Lee Jiunn-Fwu</AU>
+		<AU>Chao Huan-Ping</AU>
+		<AU>Wang Peng-Yau</AU>
+	</Article>
+	<Article>
+		<NA>148</NA>
+		<TI>A RFID grouping proof protocol for medication safety of inpatient.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Huang Hsieh-Hong</AU>
+		<AU>Ku Cheng-Yuan</AU>
+	</Article>
+	<Article>
+		<NA>149</NA>
+		<TI>RAC-multi: reader anti-collision algorithm for multichannel mobile RFID networks.</TI>
+		<DP>2010</DP>
+		<PA>Switzerland</PA>
+		<AU>Shin Kwangcheol</AU>
+		<AU>Song Wonil</AU>
+	</Article>
+	<Article>
+		<NA>150</NA>
+		<TI>An RFID-based intelligent vehicle speed controller using active traffic signals.</TI>
+		<DP>2010</DP>
+		<PA>Switzerland</PA>
+		<AU>Pérez Joshué</AU>
+		<AU>Seco Fernando</AU>
+		<AU>Milanés Vicente</AU>
+		<AU>Jiménez Antonio</AU>
+		<AU>Díaz Julio C</AU>
+		<AU>de Pedro Teresa</AU>
+	</Article>
+	<Article>
+		<NA>151</NA>
+		<TI>Using RFID to enhance security in off-site data storage.</TI>
+		<DP>2010</DP>
+		<PA>Switzerland</PA>
+		<AU>Lopez-Carmona Miguel A</AU>
+		<AU>Marsa-Maestre Ivan</AU>
+		<AU>de la Hoz Enrique</AU>
+		<AU>Velasco Juan R</AU>
+	</Article>
+	<Article>
+		<NA>152</NA>
+		<TI>Custom active RFId solution for children tracking and identifying in a resuscitation ward.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Iadanza Ernesto</AU>
+		<AU>Dori Fabrizio</AU>
+	</Article>
+	<Article>
+		<NA>153</NA>
+		<TI>A navigation system for the visually impaired using colored navigation lines and RFID tags.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Seto First Tatsuya</AU>
+	</Article>
+	<Article>
+		<NA>154</NA>
+		<TI>A closed loop wireless power transmission system using a commercial RFID transceiver for biomedical applications.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Kiani Mehdi</AU>
+		<AU>Ghovanloo Maysam</AU>
+	</Article>
+	<Article>
+		<NA>155</NA>
+		<TI>Errors of phases and group delays in SAW RFID tags with phase modulation.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Han Tao</AU>
+		<AU>Lin Wei</AU>
+		<AU>Lin Jiming</AU>
+		<AU>Wang Weibiao</AU>
+		<AU>Wu Haodong</AU>
+		<AU>Shui Yongan</AU>
+	</Article>
+	<Article>
+		<NA>156</NA>
+		<TI>RFID in the blood supply chain--increasing productivity, quality and patient safety.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Briggs Lynne</AU>
+		<AU>Davis Rodeina</AU>
+		<AU>Gutierrez Alfonso</AU>
+		<AU>Kopetsky Matthew</AU>
+		<AU>Young Kassandra</AU>
+		<AU>Veeramani Raj</AU>
+	</Article>
+	<Article>
+		<NA>157</NA>
+		<TI>Interactive visual optimization and analysis for RFID benchmarking.</TI>
+		<DP/>
+		<PA>United States</PA>
+		<AU>Wu Yingcai</AU>
+		<AU>Chung Ka-Kei</AU>
+		<AU>Qu Huamin</AU>
+		<AU>Yuan Xiaoru</AU>
+		<AU>Cheung S C</AU>
+	</Article>
+	<Article>
+		<NA>158</NA>
+		<TI>Investigation of RFID tag readability for pharmaceutical products at item level.</TI>
+		<DP>2009</DP>
+		<PA>England</PA>
+		<AU>Erdem Ergin</AU>
+		<AU>Zeng Hai</AU>
+		<AU>Zhou Junyi</AU>
+		<AU>Shi Jing</AU>
+		<AU>Wells David L</AU>
+	</Article>
+	<Article>
+		<NA>159</NA>
+		<TI>Overview of RFID technology and its applications in the food industry.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Kumar P</AU>
+		<AU>Reinitz H W</AU>
+		<AU>Simunovic J</AU>
+		<AU>Sandeep K P</AU>
+		<AU>Franzon P D</AU>
+	</Article>
+	<Article>
+		<NA>160</NA>
+		<TI>The RFID technology for neurosciences: feasibility of limbs' monitoring in sleep diseases.</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Occhiuzzi Cecilia</AU>
+		<AU>Marrocco Gaetano</AU>
+	</Article>
+	<Article>
+		<NA>161</NA>
+		<TI>A novel FEA simulation model for RFID SAW tag.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Peng Dasong</AU>
+		<AU>Yu Fengqi</AU>
+	</Article>
+	<Article>
+		<NA>162</NA>
+		<TI>Applying RFID systems to improve the correctness of newborn identity reconfirmation.</TI>
+		<DP>2009</DP>
+		<PA>Netherlands</PA>
+		<AU>Ou Yang Ming-Hui</AU>
+		<AU>Huang Hui Ling</AU>
+		<AU>Huang Shan</AU>
+	</Article>
+	<Article>
+		<NA>163</NA>
+		<TI>RFID and medication care.</TI>
+		<DP>2009</DP>
+		<PA>Netherlands</PA>
+		<AU>Lahtela Antti</AU>
+		<AU>Saranto Kaija</AU>
+	</Article>
+	<Article>
+		<NA>164</NA>
+		<TI>Behavioral phenotyping of a murine model of Alzheimer's disease in a seminaturalistic environment using RFID tracking.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Lewejohann Lars</AU>
+		<AU>Hoppmann Anne Marie</AU>
+		<AU>Kegel Philipp</AU>
+		<AU>Kritzler Mareike</AU>
+		<AU>Krüger Antonio</AU>
+		<AU>Sachser Norbert</AU>
+	</Article>
+	<Article>
+		<NA>165</NA>
+		<TI>Research lands author in the midst of RFID controversy and on the award stand.</TI>
+		<DP/>
+		<PA>United States</PA>
+	</Article>
+	<Article>
+		<NA>166</NA>
+		<TI>Combinatorial screening of polymeric sensing materials using RFID sensors: combined effects of plasticizers and temperature.</TI>
+		<DP/>
+		<PA>United States</PA>
+		<AU>Potyrailo Radislav A</AU>
+		<AU>Surman Cheryl</AU>
+		<AU>Morris William G</AU>
+	</Article>
+	<Article>
+		<NA>167</NA>
+		<TI>Feasibility of ultra-wideband SAW RFID tags meeting FCC rules.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>Härmä Sanna</AU>
+		<AU>Plessky Victor P</AU>
+		<AU>Li Xianyi</AU>
+		<AU>Hartogh Paul</AU>
+	</Article>
+	<Article>
+		<NA>168</NA>
+		<TI>RFID in the healthcare supply chain: usage and application.</TI>
+		<DP>2009</DP>
+		<PA>England</PA>
+		<AU>Kumar Sameer</AU>
+		<AU>Swanson Eric</AU>
+		<AU>Tran Thuy</AU>
+	</Article>
+	<Article>
+		<NA>169</NA>
+		<TI>Evaluate tandem use of bar coding and RFID.</TI>
+		<DP>2009</DP>
+		<PA>United States</PA>
+		<AU>De Martini Cristina</AU>
+	</Article>
+	<Article>
+		<NA>170</NA>
+		<TI>Towards a single-chip, implantable RFID system: is a single-cell radio possible?</TI>
+		<DP>2010</DP>
+		<PA>United States</PA>
+		<AU>Burke Peter</AU>
+		<AU>Rutherglen Christopher</AU>
+	</Article>
+	<Article>
+		<NA>171</NA>
+		<TI>Optimal Detection Range of RFID Tag for RFID-based Positioning System Using the k-NN Algorithm.</TI>
+		<DP>2009</DP>
+		<PA>Switzerland</PA>
+		<AU>Han Soohee</AU>
+		<AU>Kim Junghwan</AU>
+		<AU>Park Choung-Hwan</AU>
+		<AU>Yoon Hee-Cheon</AU>
+		<AU>Heo Joon</AU>
+	</Article>
+	<Article>
+		<NA>172</NA>
+		<TI>Enhanced TDMA Based Anti-Collision Algorithm with a Dynamic Frame Size Adjustment Strategy for Mobile RFID Readers.</TI>
+		<DP>2009</DP>
+		<PA>Switzerland</PA>
+		<AU>Shin Kwang Cheol</AU>
+		<AU>Park Seung Bo</AU>
+		<AU>Jo Geun Sik</AU>
+	</Article>
+	<Article>
+		<NA>173</NA>
+		<TI>SAW RFID-Tags for Mass-Sensitive Detection of Humidity and Vapors.</TI>
+		<DP>2009</DP>
+		<PA>Switzerland</PA>
+		<AU>Lieberzeit Peter A</AU>
+		<AU>Palfinger Christian</AU>
+		<AU>Dickert Franz L</AU>
+		<AU>Fischerauer Gerhard</AU>
+	</Article>
+	<Article>
+		<NA>174</NA>
+		<TI>Public views of mobile medical devices and services: a US national survey of consumer sentiments towards RFID healthcare technology.</TI>
+		<DP>2009</DP>
+		<PA>Ireland</PA>
+		<AU>Katz James E</AU>
+		<AU>Rice Ronald E</AU>
+	</Article>
+</result>
