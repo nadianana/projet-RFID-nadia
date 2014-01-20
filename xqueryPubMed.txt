@@ -1,0 +1,21 @@
+xquery version "1.0";
+ <result>
+{
+for $l  in doc("pubmed_result.xml")//PubmedArticleSet/PubmedArticle/MedlineCitation
+
+return
+<Article>
+<TI>{$l /Article/Journal/Title/text()}</TI>
+<DP>{$l /DateCreated/(Year/text() union  Month/text() union Day/text())}</DP>
+<PA>{$l /MedlineJournalInfo/Country/text()}</PA>
+{
+for $n  in $l/Article/AuthorList/Author
+
+return
+<AU>{$n/(LastName/text() union ForeName/text())}</AU>
+
+}
+
+</Article>
+}
+ </result>
