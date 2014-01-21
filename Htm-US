@@ -1,0 +1,8 @@
+cat pages/*.html > X
+h1-US X Y
+grep "netacgi"  Y  | > Z
+sort -u Z > Y
+egrep -v  "Page|IMG|#|VALUE|FORM|ebiz|Query" | Y > URL
+sed "s/amp;//g;" Z > URL/resultat-Htm-US.txt
+rm X Y Z
+
